@@ -6,6 +6,7 @@ Telemarketing is a strategy marketers commonly use to promote products or servic
 Future work:
 - Among those who subscribed, how do u ensure they would not be exhausted from frequent/lengthy engagement (i.e. avoid customer fatigue)
 
+Accompanying article: <a href="https://medium.com/@valerielimyh/optimising-customer-engagement-efforts-using-machine-learning-application-on-retail-banking-a4e8a30cee1c" rel="nofollow">Optimising customer engagement efforts using machine learning: Application on retail banking</a> 
 
 Project Organization
 ------------
